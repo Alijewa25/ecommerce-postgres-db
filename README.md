@@ -15,7 +15,7 @@ The database contains multiple related tables representing an e-commerce system 
 
 ## 📊 Database Schema
 
-![E-Commerce Database Schema](database.png)
+![E-Commerce Database Schema](postgres - ecommers_db - public.png)
 
 ## 📂 Project Structure
 
